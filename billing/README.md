@@ -1,3 +1,6 @@
+# Everon has a new Github account! You can find our repository here - https://github.com/everonhq/api/tree/master/billing
+
+<br/><br/>
 # Everon public APIs
 Welcome to the start page of Everon public APIs! Here you can find a quick introduction guide to get on board using our public APIs in the fastest and easiest way possible.
 
